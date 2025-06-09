@@ -66,12 +66,6 @@ seriesTV/
 
 ## 🧪 Vista de la Aplicación
 
-Puedes añadir aquí una captura de pantalla de tu GUI en la carpeta `/img` del proyecto y mostrarla así:
-
-```
-img/
-└── vista.png
-```
 
 ```markdown
 ![Vista de la aplicación](img/vista.png)
