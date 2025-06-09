@@ -67,9 +67,9 @@ seriesTV/
 ## 🧪 Vista de la Aplicación
 
 
-```markdown
+
 ![Vista de la aplicación](img/vista.png)
-```
+
 
 ---
 
